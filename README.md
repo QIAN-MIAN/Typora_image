@@ -2,7 +2,7 @@
 save_Typora_images
 
 ## 该仓库由github为主，gitee只是同步github的内容，gitee随github改变而改变
-##github的Typora_image控制Gitee的Typora_image_mirror
+## github的Typora_image控制Gitee的Typora_image_mirror
 
 
 ## 图床创建
